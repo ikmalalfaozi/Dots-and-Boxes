@@ -68,8 +68,8 @@ function App() {
                 </div>
                 <div className="help my-8">
                     <div className="flex justify-center mb-4 text-lg font-semibold">How To Play</div>
-                    <ul className="list-decimal">
-                        <li>Each turn, drag between two horizontally or vertically adjacent dots to draw a line.</li>
+                    <ul className="list-decimal list-inside">
+                        <li>Each turn, click between two horizontally or vertically adjacent dots to draw a line.</li>
                         <li>Drawing the 4th wall of a box wins it, earning you a point. When you close a box you must move again.</li>
                         <li>Lines are drawn until all squares are claimed. The player with the most claimed squares wins!</li>
                         <li>Be careful not to create long chains of boxes for your opponents to claim Think of creative ways to double cross your opponent, forcing them to give you the long chains!</li>
