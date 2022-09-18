@@ -72,7 +72,8 @@ function App() {
                         <li>Each turn, click between two horizontally or vertically adjacent dots to draw a line.</li>
                         <li>Drawing the 4th wall of a box wins it, earning you a point. When you close a box you must move again.</li>
                         <li>Lines are drawn until all squares are claimed. The player with the most claimed squares wins!</li>
-                        <li>Be careful not to create long chains of boxes for your opponents to claim Think of creative ways to double cross your opponent, forcing them to give you the long chains!</li>
+                        <li>Be careful not to create long chains of boxes for your opponents to claim </li>
+                        <li>Think of creative ways to double cross your opponent, forcing them to give you the long chains!</li>
                     </ul>
                 </div>
             </main>
